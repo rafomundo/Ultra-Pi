@@ -30,3 +30,5 @@
 
 # Debug files
 *.dSYM/
+Release/
+ultra_pi/Debug/

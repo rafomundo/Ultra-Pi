@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ultra_pi">
+</Property><Property Name="Solution File" Value="D:\MyProgs\ultra_pi\ultra_pi\ultra_pi.sln">
+</Property><Property Name="User Options File" Value="D:\MyProgs\ultra_pi\ultra_pi\ultra_pi.suo">
+</Property><Property Name="Date" Value="Montag, 9. August 2010">
+</Property><Property Name="Time" Value="12:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ultra_pi.sln" Description="File successfully backed up as D:\MyProgs\ultra_pi\ultra_pi\ultra_pi.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="ultra_pi.suo" Description="File successfully backed up as D:\MyProgs\ultra_pi\ultra_pi\ultra_pi.suo.old">
+</Event><Event ErrorLevel="0" Project="ultra_pi" Source="ultra_pi\ultra_pi.vcproj" Description="Converting project file 'D:\MyProgs\ultra_pi\ultra_pi\ultra_pi\ultra_pi.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ultra_pi" Source="ultra_pi\ultra_pi.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ultra_pi" Source="ultra_pi\ultra_pi.vcproj" Description="Attribute 'OptimizeForWindows98' of 'VCLinkerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="ultra_pi" Source="ultra_pi\ultra_pi.vcproj" Description="Done converting to new project file 'D:\MyProgs\ultra_pi\ultra_pi\ultra_pi\ultra_pi.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ultra_pi" Source="ultra_pi\ultra_pi.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ultra_pi.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ultra_pi.sln" Description="Converted">
+</Event></UpgradeLog>
